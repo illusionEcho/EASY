@@ -2,4 +2,5 @@
 This is 2021 CSE Hackthan project
 done by three people
 
-#Project name 
+# Project name 
+Easy-efficient, attainable, systematic yekefellow
