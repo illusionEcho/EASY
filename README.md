@@ -6,7 +6,7 @@ Easy-efficient, attainable, systematic yekefellow
 
 # Idea
 a education helper system to show the student career pathway in a concise and easy graph.
-the graph below demonstrated a usual used way for the project
+the graph below demonstrated a usual used way for the website
 
 <img width="1473" alt="Screen Shot 2021-07-18 at 00 51 46" src="https://user-images.githubusercontent.com/58925650/126040912-c56cc92b-b579-436e-8df9-49288a616f05.png">
 <img width="1472" alt="Screen Shot 2021-07-18 at 00 52 09" src="https://user-images.githubusercontent.com/58925650/126040918-a06cc111-e673-4ad4-a543-acc8760db9c8.png">
