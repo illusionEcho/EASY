@@ -1,0 +1,249 @@
+body{
+    background-color: #FCFFF2;
+}
+
+.header {
+    text-align: right;
+    margin: 30px 30px;
+}
+
+.header li {
+    display: inline-block;
+    padding:10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header .hero {
+    position: absolute;
+    width: 244px;
+    height: 228px;
+    left: 36px;
+    top: 31px;
+    border-radius: 71px;
+}
+
+.name {
+    position: absolute;
+    width: 292px;
+    height: 97px;
+    left: 510px;
+    top: 190px;
+
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 97px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.smalltitle {
+    position: absolute;
+    width: 233px;
+    height: 50px;
+    left: 530px;
+    top: 350px;
+    
+    background: #C4C4C4; 
+}
+
+.st {
+    position: absolute;
+    width: 201px;
+    height: 36px;
+    left: 560px;
+    top: 330px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #000000;
+    
+}
+
+.ht {
+    position: absolute;
+    width: 147px;
+    height: 36px;
+    left: 895px;
+    top: 399px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #000000;
+    
+}
+
+.ov {
+    position: absolute;
+    width: 105px;
+    height: 36px;
+    left: 288px;
+    top: 399px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #000000; 
+}
+
+.hozi {
+    position: absolute;
+    width: 1044px;
+    height: 0px;
+    left: 150px;
+    top: 470px;
+
+    border: 1px solid #000000;
+}
+
+.ver {
+    position: absolute;
+    width: 468px;
+    height: 0px;
+    left: 400px;
+    top: 640px;
+    
+    border: 1px solid #000000;
+    transform: rotate(90.12deg);    
+}
+
+.description {
+    position: absolute;
+    width: 504px;
+    height: 162px;
+    left: 149px;
+    top: 478px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 27px;
+    
+    color: #000000; 
+    text-align: left;
+}
+
+.matlab {
+    position: absolute;
+    width: 93px;
+    height: 36px;
+    left: 922px;
+    top: 476px;
+
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #000000;
+}
+.mow {
+    position: absolute;
+    width: 267px;
+    height: 36px;
+    left: 845px;
+    top: 541px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #000000;
+}
+
+.bp {
+    position: absolute;
+    width: 222px;
+    height: 44px;
+    left: 858px;
+    top: 640px;
+
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #000000;
+}
+
+.back {
+    position: absolute;
+    width: 144px;
+    height: 70px;
+    left: 1353px;
+    top: 770px;
+    
+    background: #FFFFFF;
+    mix-blend-mode: darken;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.backbottom {
+    position: absolute;
+    width: 79px;
+    height: 54px;
+    left: 1385px;
+    top: 740px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    
+    color: #000000;
+    
+}
+
+.daily {
+    position: absolute;
+    width: 198px;
+    height: 36px;
+    left: 242px;
+    top: 689px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #000000;
+}
+
+.des {
+    position: absolute;
+    width: 488px;
+    height: 54px;
+    left: 144px;
+    top: 740px;
+
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}

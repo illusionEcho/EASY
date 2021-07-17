@@ -1,0 +1,176 @@
+body{
+    background-color: #FCFFF2;
+}
+
+.header {
+    text-align: right;
+    margin: 30px 30px;
+}
+
+.header li {
+    display: inline-block;
+    padding:10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header .hero {
+    position: absolute;
+    width: 244px;
+    height: 228px;
+    left: 36px;
+    top: 31px;
+    border-radius: 71px;
+}
+
+.dsp {
+    position: absolute;
+    width: 137px;
+    height: 80px;
+    left: 588px;
+    top: 460px;
+    
+    background: #7ACFF3;
+    mix-blend-mode: darken;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.dspword {
+    position: absolute;
+    width: 64px;
+    height: 39px;
+    left: 625.44px;
+    top: 449px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;
+    transform: rotate(0.65deg);
+}
+
+.arror {
+    position: absolute;
+    width: 165px;
+    height: 0px;
+    left: 560px;
+    top: 360px;
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    transform: rotate(-90deg);
+}
+
+.biomedical {
+    position: absolute;
+    width: 353px;
+    height: 39px;
+    left: 498px;
+    top: 189px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.audioengineer {
+    position: absolute;
+    width: 274px;
+    height: 39px;
+    left: 110px;
+    top: 605px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.imageengineer {
+    position: absolute;
+    width: 280px;
+    height: 39px;
+    left: 897px;
+    top: 605px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.arror1 {
+    position: absolute;
+    width: 204.13px;
+    height: 0px;
+    left: 370px;
+    top: 580px;
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    transform: rotate(146.39deg);
+}
+
+.arror2 {
+    position: absolute;
+    width: 186.64px;
+    height: 0px;
+    left: 741px;
+    top: 580px;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    transform: rotate(38.04deg);
+}
+
+.back {
+    position: absolute;
+    width: 144px;
+    height: 70px;
+    left: 1353px;
+    top: 770px;
+    
+    background: #FFFFFF;
+    mix-blend-mode: darken;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.backbottom {
+    position: absolute;
+    width: 79px;
+    height: 54px;
+    left: 1385px;
+    top: 740px;
+    
+    font-family: Noto Sans Thai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    
+    color: #000000;
+    
+}
